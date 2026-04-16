@@ -12,7 +12,14 @@ I'm a Switzerland-based web developer building digital products for national and
 ### 🛠️ Tech
 - Pug, HAML, SCSS, TypeScript  
 - React, Next.js, Vue, Nuxt  
+- Eleventy (11ty), MJML  
 - Ruby  
+
+### ⚙️ Also working with
+- Git, modern build tooling  
+- REST APIs & integrations  
+- Accessibility (WCAG), performance optimization  
+- Cross-client HTML email development  
 
 <!--
 **rudigier/rudigier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
