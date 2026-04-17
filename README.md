@@ -5,7 +5,7 @@ Web Developer based in Switzerland, currently working at [DEPT®](https://www.de
 ### 🚀 Core Expertise
 - **Web Development:** Modern applications and websites with React (Next.js) and Vue (Nuxt)  
 - **Design Systems:** Modular, component-based architectures  
-- **BSI Solutions:** Template development for BSI (web & email)  
+- **BSI Solutions:** Template development for [BSI](https://www.bsi-software.com/) (web & email)  
 - **Email Systems:** Modular HTML email systems and MJML  
 - **Accessibility:** WCAG compliance, co-author of the [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)  
 
