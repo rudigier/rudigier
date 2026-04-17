@@ -1,25 +1,19 @@
 ## 👋 Hi, I'm Jürgen
 
-I'm a Switzerland-based web developer building digital products for national and international clients. I focus on clean, scalable code, accessible interfaces, and long-term maintainability.
+Web Developer based in Switzerland, currently working at [DEPT®](https://www.deptagency.com). I build scalable digital products by combining modern AI-assisted workflows with solid engineering principles—focusing on clean code, accessibility, and long-term maintainability.
 
-### 🧑‍💻 What I do
-- Build modern websites and web applications  
-- Design and maintain component-based design systems  
-- Develop BSI templates  
-- Build modular HTML email systems  
-- Improve accessibility (WCAG) and performance  
+### 🚀 Core Expertise
+- **Web Development:** Modern applications and websites with React (Next.js) and Vue (Nuxt)  
+- **Design Systems:** Modular, component-based architectures  
+- **BSI Solutions:** Template development for BSI (web & email)  
+- **Email Systems:** Modular HTML email systems and MJML  
+- **Accessibility:** WCAG compliance, co-author of the [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)  
 
-### 🛠️ Tech
-- Pug, HAML, SCSS, TypeScript  
-- React, Next.js, Vue, Nuxt  
-- Eleventy (11ty), MJML  
-- Ruby  
-
-### ⚙️ Also working with
-- Git, modern build tooling  
-- REST APIs & integrations  
-- Accessibility (WCAG), performance optimization  
-- Cross-client HTML email development  
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, SCSS, Pug, HAML, Ruby  
+- **Frameworks:** React, Next.js, Vue, Nuxt, Eleventy (11ty)  
+- **AI & Tools:** AI-assisted development (LLMs, copilots), modern workflows  
+- **Email Tech:** MJML, modular HTML  
 
 <!--
 **rudigier/rudigier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
